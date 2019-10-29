@@ -27,10 +27,7 @@ _putchar('%');
 _putchar(format[n + 1]);
 return (2);
 }
-else if (format[n + 1] == form[i].type)
-{
-return (form[i].func(arg));
-}
+
 }
 return (0);
 }
