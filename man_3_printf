@@ -7,10 +7,11 @@ _printf FORMAT [ARGUMENT]
 _printf OPTION
 .SH DESCRIPTION
 a function that produces output according to a format.
-to options:
+.SH options
 %c: to replace with a char
 %s: to replace with a string
 %i: to replace with a intger
 %d: to replace with a digit
+.SH see also
 this function was created by amine neifer and iheb
 for a holberton school project.
