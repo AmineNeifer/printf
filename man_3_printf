@@ -1,9 +1,7 @@
 .\" Manpage for _printf.
 .\" Contact habetlbrika69@gmail.com in to correct errors or typos
 .SH NAME
-	_printf \- a function that produces output according to a format.
+	_printf \- format and print data
 .SH SYNOPSIS
 	_printf FORMAT [ARGUMENT]
 	_printf OPTION
-.SH DESCRIPTION
-    
