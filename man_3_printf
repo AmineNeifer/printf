@@ -1,7 +1,7 @@
 .\" Manpage for _printf.
 .\" Contact habetlbrika69@gmail.com in to correct errors or typos
 .SH NAME
-	_printf \- format and print data
+_printf \- format and print data
 .SH SYNOPSIS
 _printf FORMAT [ARGUMENT]
 _printf OPTION
@@ -10,7 +10,7 @@ a function that produces output according to a format.
 to options:
 %c: to replace with a char
 %s: to replace with a string
-%i: to replace with a intger 
+%i: to replace with a intger
 %d: to replace with a digit
 this function was created by amine neifer and iheb
 for a holberton school project.
