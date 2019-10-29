@@ -5,3 +5,11 @@
 .SH SYNOPSIS
 	_printf FORMAT [ARGUMENT]
 	_printf OPTION
+.SH DESCRIPTION
+    a function that produces output according to a format.
+    to options:
+    %c: to replace with a char
+    %s: to replace with a string
+    this function was created by amine neifer and iheb khaldi
+    for a holberton school project.
+    
