@@ -29,6 +29,4 @@ len++;
 }
 i++;
 }
-va_end(arg);
-return (len);
-}
+va
