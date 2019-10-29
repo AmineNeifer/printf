@@ -16,12 +16,14 @@ put_form form[] = {
 {'%', put_hash},
 {'i', put_numb},
 {'d', put_numb},
+{'b', put_bin},
+{'R', put_rot13},
 {0, NULL}
 };
 int i;
-for (i = 0; i < 6; i++)
+for (i = 0; i < 8; i++)
 {
-if (i == 5)
+if (i == 7)
 {
 _putchar('%');
 _putchar(format[n + 1]);
